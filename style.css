@@ -1,0 +1,39 @@
+.a {
+    margin: 10px;
+}
+h1{
+   
+    text-align: center;
+    background-color: yellow;
+    color:green;
+    text-decoration: underline;
+}
+h3{
+    text-align: center;
+    padding: 5px;
+}
+.b{
+    padding: 5px;
+}
+.imgwid{
+    width: 25%
+    padding : 5px;
+}
+.d{
+    width: 100%;
+    padding: 5px;
+}
+.c{
+    width: 50%;
+    align: center;
+    color: white;
+    background-color: green;
+    font-size: 12px;
+    padding: 5px;
+}
+.e{
+    color:white;
+    text-align: center;
+    background-color: black;
+    padding:5px;
+}
