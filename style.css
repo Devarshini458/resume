@@ -1,6 +1,16 @@
 .a {
     margin: 10px;
-    /* background-color: grey; */
+    background-color: lightgray; 
+}
+.ab{
+    border:solid;
+    margin: 10px;
+}
+.ac {
+        display: block;
+        margin: 0 auto;
+        padding:5px;
+    
 }
 h1{
    
@@ -15,21 +25,22 @@ h3{
 }
 .b{
     padding: 5px;
-    /* radius: 12px; */
+    border-radius: 12px;  
 }
 .imgwid{
-    width: 25%
+    width: 20%;
     padding : 5px;
-    radius: 50%;
+    border-radius: 50%; 
     padding:5px;
+    text-align: center;
 }
 .d{
-    width: 100%;
+    width: 50%;
     padding: 5px;
 }
 .c{
     width: 50%;
-    align: center;
+    text-align: center;
     color: white;
     background-color: green;
     font-size: 12px;
@@ -40,4 +51,5 @@ h3{
     text-align: center;
     background-color: black;
     padding:5px;
+    
 }
